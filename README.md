@@ -6,7 +6,7 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 
-[![Screenshot of Tubestamp](https://github.com/user-attachments/assets/f8d248ed-10ad-4aec-8689-088025710ba1)](https://tubestamp.com/)
+
 
 📥 Learn how to easily download a GitHub repository in just 2 minutes with this guide: [https://youtu.be/m0wi6zf21FU](https://youtu.be/m0wi6zf21FU)
 
